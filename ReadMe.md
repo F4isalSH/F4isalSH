@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working as an Associate Software Engineer at Thakaa Center<br>🌱 I'm currently learning Web Development and Design<br>🚀 I'm currently looking to collaborate on Node.js projects<br>
+🔭 I'm currently working as an Associate Software Engineer at Thakaa Center<br>🚀 I'm currently looking to collaborate on Node.js projects<br>
 
 
 ## 🌐 Socials:
