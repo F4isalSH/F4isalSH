@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working as a Software Engineer (Full Stack Development at IBM)<br>
+🔭 I'm currently working as a Software Engineer (Full Stack Development) at IBM<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=F4isalSH&theme=tokyonight&hide_border=false)<br/>
